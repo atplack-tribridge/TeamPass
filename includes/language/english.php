@@ -14,7 +14,8 @@
  */
 global $LANG;
 $LANG = array (
-    'settings_require_item_locking_tip' => 'Require Users to Lock items before using them.',
+    'settings_require_item_locking_tip' => 'This will force users to lock an item before allowing them to use the item',
+    'require_item_locking' => 'Require Users to Lock items before using them.',
     'lockedby' => 'Locked By',
     'islocked' => 'Account is locked',
     'locked_by' => 'Lock Account',
